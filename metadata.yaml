@@ -1,0 +1,58 @@
+_repo: Le-Docteur-Ox_11589
+_version: 0.0.1
+alternative_title: "Les Voyages extraordinaires\r\nCouronnés par l'Académie française"
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriël
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+description: "Doctor Ox (French: Le Docteur Ox) is a collection of short stories by\
+  \ Jules Verne, first published in 1874 by Pierre-Jules Hetzel.\nIt consists of four\
+  \ varied works by Verne:\n\"Une fantaisie du Docteur Ox\" (\"Dr. Ox's Experiment,\"\
+  \ 1872), illustrated by Lorenz Froelich\n\"Maître Zacharius\" (\"Master Zacharius,\"\
+  \ 1854), illustrated by Théophile Schuler\n\"Un drame dans les airs\" (\"A Drama\
+  \ in the Air,\" 1851), illustrated by Émile-Antoine Bayard\n\"Un hivernage dans\
+  \ les glaces\" (\"A Winter Amid the Ice,\" 1855), illustrated by Adrien Marie and\
+  \ Barbant\nThe collection also includes a preface by Pierre-Jules Hetzel and a story,\
+  \ \"Quarantième ascension au mont Blanc\" (\"Fortieth Ascent of Mont Blanc\"), written\
+  \ by Verne's brother Paul and illustrated by Edmond Yon.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11589'
+  wikidata: Q385511
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountaineering'
+- !lcsh 'Ballooning -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Adventure stories, French'
+- !lcsh 'Blanc, Mont (France and Italy)'
+- GITenberg
+tableOfContents: Une Fantasie du Docteur Ox -- Maître Zacharius -- Un drame dans les
+  airs -- Un hivernage dans les glaces -- Quarantième ascension française au Mont-Blanc
+title: Le Docteur Ox
+url: http://www.gutenberg.org/ebooks/11589
+wikipedia:
+- https://fr.wikipedia.org/wiki/Le_Docteur_Ox
+- https://ar.wikipedia.org/wiki/%D8%AF%D9%83%D8%AA%D9%88%D8%B1_%D8%A3%D9%88%D9%83%D8%B3_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://cs.wikipedia.org/wiki/Doktor_Ox
+- https://sk.wikipedia.org/wiki/Doktor_Ox
+- https://en.wikipedia.org/wiki/Doctor_Ox
+- https://it.wikipedia.org/wiki/Il_dottor_Ox_(raccolta_di_racconti)
+- https://ro.wikipedia.org/wiki/Doctorul_Ox
+- https://fr.wikisource.org/wiki/Le_Docteur_Ox
